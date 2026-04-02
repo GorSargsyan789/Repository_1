@@ -1,4 +1,3 @@
-# Repository_1
 # 💫 About Me:
 I specialize in Python and teach Machine Learning. Passionate about building intelligent systems and sharing knowledge. Skilled in scikit-learn, pandas, and TensorFlow
 
